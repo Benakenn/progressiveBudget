@@ -1,3 +1,4 @@
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 # Progressive-Budget
 
 :link: [Go to the Budget Tracker](https://hidden-taiga-29176.herokuapp.com/)
