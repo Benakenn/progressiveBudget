@@ -1,8 +1,6 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 # Progressive-Budget
 
-:link: [Go to the Budget Tracker](https://hidden-taiga-29176.herokuapp.com/)
-
 A progressive web application that helps you keep track of your spending. When funds are added or subtracted, transactions are saved in a table and visualized with a graph.
 
 When adding transactions offline, the data is saved in IndexedDB and sent when the browser comes back online.
