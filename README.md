@@ -1,7 +1,7 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 # Progressive-Budget
 
-A progressive web application that helps you keep track of your spending. When funds are added or subtracted, transactions are saved in a table and visualized with a graph.
+The user will be able to add expenses and deposits to their budget with or without a connection.
 
 When adding transactions offline, the data is saved in IndexedDB and sent when the browser comes back online.
 
