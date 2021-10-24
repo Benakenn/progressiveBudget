@@ -10,8 +10,7 @@ When adding transactions offline, the data is saved in IndexedDB and sent when t
 Acceptance criteria, a user story and starter code were provided for this assignment. The starter code included the working app, but without offline functionality.
 
 ## Purpose
-
-For avid travellers who need to keep their account balance accurate while travelling.
+For budget conscience individuals who need the extra help maintaining their budgets.
 
 ## Local Installation
 
