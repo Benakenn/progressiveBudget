@@ -27,10 +27,6 @@ For budget conscience individuals who need the extra help maintaining their budg
 - [Mongoose](https://mongoosejs.com/)
 - [Express](https://expressjs.com/)
 
-### Bundler
-
-- [Webpack](https://webpack.js.org/)
-
 
 ## License
 
